@@ -1,0 +1,16 @@
+.container {
+  border: 1px solid;
+  height: 100%;
+  position: relative;
+}
+#number-box {
+  border: solid 1px;
+  margin-bottom: 5px;
+}
+.small-box {
+  width: 50px;
+  height: 50px;
+  border: 1px solid;
+  background-color: white;
+  position: absolute;
+}
